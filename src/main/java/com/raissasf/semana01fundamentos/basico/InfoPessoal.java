@@ -3,7 +3,7 @@
 
 package com.raissasf.semana01fundamentos.basico;
 
-public class Exercicio02_InfoPessoal {
+public class InfoPessoal {
     
     public static void main(String[] args) {
         

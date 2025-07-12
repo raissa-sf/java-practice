@@ -3,7 +3,7 @@
 
 package com.raissasf.semana01fundamentos.basico;
 
-public class Exercicio04_OperacoesBasicas {
+public class OperacoesBasicas {
 
     public static void main(String[] args) {
 

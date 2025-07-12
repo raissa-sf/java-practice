@@ -5,7 +5,7 @@ package com.raissasf.semana01fundamentos.basico;
 
 import java.util.Scanner;
 
-public class Exercicio05_EntradaUsuario {
+public class EntradaUsuario {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

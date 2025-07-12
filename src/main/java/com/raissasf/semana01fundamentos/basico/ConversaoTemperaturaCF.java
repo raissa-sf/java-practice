@@ -6,7 +6,7 @@ package com.raissasf.semana01fundamentos.basico;
 
 import java.util.Scanner;
 
-public class Exercicio08_ConversaoTemperaturaCF {
+public class ConversaoTemperaturaCF {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class Exercicio08_ConversaoTemperaturaCF {
 
         double temperaturaFahrenheit = (temperaturaCelsius * 1.8) + 32;
 
-        System.out.println("A área do retângulo é igual a " + area + " m²."); 
+        System.out.println(temperaturaCelsius + "°C equivale a " + temperaturaFahrenheit + " °F."); 
 
         scanner.close(); 
 

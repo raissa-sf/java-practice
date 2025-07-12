@@ -3,7 +3,7 @@
 
 package com.raissasf.semana01fundamentos.basico;
 
-public class Exercicio01_HelloWorld {
+public class HelloWorld {
    
     public static void main(String[] args) {
        

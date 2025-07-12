@@ -5,7 +5,7 @@ package com.raissasf.semana01fundamentos.basico;
 
 import java.util.Scanner;
 
-public class Exercicio07_AreaRetangulo {
+public class AreaRetangulo {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
